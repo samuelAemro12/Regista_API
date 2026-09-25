@@ -1,0 +1,20 @@
+# Environment and secrets
+.env
+
+# Go
+bin/
+dist/
+*.exe
+*.test
+*.out
+coverage.out
+
+# IDEs and editors
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db

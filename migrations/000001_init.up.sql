@@ -1,0 +1,1 @@
+-- Initial migration placeholder. Domain schema will be introduced with its feature.
